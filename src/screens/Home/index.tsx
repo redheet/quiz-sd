@@ -42,7 +42,7 @@ export function Home() {
         onPress={() => navigate("history")}
       />
 
-      <View style={styles.levels}>
+      {/* <View style={styles.levels}>
         <Level
           title="Mudah"
           type="EASY"
@@ -61,7 +61,7 @@ export function Home() {
           onPress={() => handleLevelFilter(3)}
           isChecked={levels.includes(3)}
         />
-      </View>
+      </View> */}
 
       <FlatList
         data={quizzes}
