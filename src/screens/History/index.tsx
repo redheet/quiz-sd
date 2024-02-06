@@ -60,8 +60,8 @@ export function History() {
   return (
     <View style={styles.container}>
       <Header
-        title="History QUIZ"
-        subtitle={`Soal-Soal yang sudah${"\n"}kamu kerjakan`}
+        title="History"
+        subtitle={" Kuis Yang Diselesaikan \n Skor Nilai"}
         icon={HouseLine}
         onPress={goBack}
       />
@@ -86,7 +86,7 @@ export function History() {
               containerStyle={styles.swipeContainer}
               renderLeftActions={() => (
                 <View style={styles.swipeRemove}>
-                  <Trash size={32} color={THEME.COLORS.GREY_100} />
+                  <Trash size={28} color={THEME.COLORS.GREY_100} />
                 </View>
               )}
               renderRightActions={() => null}

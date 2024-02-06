@@ -5,20 +5,49 @@ export const QUIZ = [
     level: 1,
     questions: [
       {
-        title: "Nenek suka mendongeng. Dongeng adalah cerita ....",
-        alternatives: ["nyata", "bener-benar terjadi", "tidak nyata"],
+        title: "Dibawah ini Hewan berkaki 2 ialah",
+        alternatives: ["Gajah", "Sapi", "Ayam", "Kuda"],
         correct: 2,
       },
       {
-        title:
-          "Aku adalah sebuah benda. Aku terbuat dari kayu. Bentukku sangat besar. Aku tempat menyimpan baju. Aku juga bisa menyimpan barang. Aku memiliki pintu dan cermin. Aku adalah ...",
-        alternatives: ["meja", "lemari", "kursi"],
+        title: " Kuda Hidup di Darat,ikan Hidup di....??",
+        alternatives: ["Udara", "Darat", "Air", " ES"],
+        correct: 2,
+      },
+      {
+        title: " 5 + 3 =....",
+        alternatives: ["7", "9", "10", "8"],
+        correct: 3,
+      },
+      {
+        title: " Telinga Berfungsi Untuk...?",
+        alternatives: ["Mendengar", "Berbicara", "Melihat", "Meraba"],
+        correct: 0,
+      },
+      {
+        title: " Mata Berfungsi Untuk...?",
+        alternatives: ["Mendengar", "Berbicara", "Melihat", "Meraba"],
+        correct: 2,
+      },
+      {
+        title: " Mulut Berfungsi Untuk...?",
+        alternatives: ["Mendengar", "Berbicara", "Melihat", "Meraba"],
         correct: 1,
       },
       {
-        title: "25 - 17 ",
-        alternatives: ["7", "9", "10", "15"],
+        title: " Alat Untuk Menulis ialah...?",
+        alternatives: ["Pensil", "Kayu", "Buku", "Kursi"],
         correct: 0,
+      },
+      {
+        title: " Makanan Utama Hewan Kerbau ialah...?",
+        alternatives: ["Kayu", "Batu", "Rumput", "Tanah"],
+        correct: 2,
+      },
+      {
+        title: " Katak Berjalan Dengan Cara...?",
+        alternatives: ["Merangkak", "Melompat", "Berlari", "Berenang"],
+        correct: 1,
       },
     ],
   },

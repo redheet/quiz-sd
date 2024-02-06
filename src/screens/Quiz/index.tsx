@@ -70,7 +70,7 @@ export function Quiz() {
   }
 
   function handleSkipConfirm() {
-    Alert.alert("Skip", "Yakin ingin melewatkan?", [
+    Alert.alert("Skip", "Yakin ingin Dilewati ?", [
       { text: "Ya", onPress: () => handleNextQuestion() },
       { text: "Tidak", onPress: () => {} },
     ]);

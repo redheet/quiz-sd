@@ -37,8 +37,8 @@ export function Home() {
     <View style={styles.container}>
       <Header
         icon={Icon.FloppyDisk}
-        title="QUIZ SD"
-        subtitle="Soal Pelajaran Kelas 1 Sampai 6"
+        title="Game Kuis"
+        subtitle="Tingkat Sekolah Dasar"
         onPress={() => navigate("history")}
       />
 

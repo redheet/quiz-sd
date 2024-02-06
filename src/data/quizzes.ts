@@ -37,12 +37,12 @@ export const QUIZZES = [
     level: 3,
     svg: Student,
   },
-  {
-    id: "7",
-    title: "Kelas 7",
-    level: 3,
-    svg: Student,
-  },
+  // {
+  //   id: "7",
+  //   title: "Kelas 7",
+  //   level: 3,
+  //   svg: Student,
+  // },
   // {
   //   id: "8",
   //   title: "Kelas 8",
