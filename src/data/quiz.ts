@@ -45,7 +45,7 @@ export const QUIZ = [
         correct: 2,
       },
       {
-        title: " Katak Berjalan Dengan Cara...?",
+        title: "Katak Berjalan Dengan Cara...?",
         alternatives: ["Merangkak", "Melompat", "Berlari", "Berenang"],
         correct: 1,
       },
