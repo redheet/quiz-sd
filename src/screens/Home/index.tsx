@@ -4,7 +4,7 @@ import * as Icon from "phosphor-react-native";
 import { useNavigation } from "@react-navigation/native";
 import { Button } from "../../components/Button";
 
-import { Level } from "../../components/Level";
+// import { Level } from "../../components/Level";
 import { Header } from "../../components/Header";
 import { QuizCard } from "../../components/QuizCard";
 
