@@ -40,7 +40,7 @@ export const QUIZ = [
         correct: 0,
       },
       {
-        title: " Makanan Utama Hewan Kerbau ialah...?",
+        title: "Makanan Utama Hewan Kerbau ialah...?",
         alternatives: ["Kayu", "Batu", "Rumput", "Tanah"],
         correct: 2,
       },
